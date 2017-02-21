@@ -24,7 +24,7 @@ public class Parrot extends Bird
   
   public String setName(String s)
   {
-    s = name;
+    name = s;
     return name;
   }
 }
